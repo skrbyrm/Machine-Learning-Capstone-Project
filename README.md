@@ -7,27 +7,27 @@ We will make predictions by training the dataset of car features and car sales p
 
 
 ### Steps to follow ;
-* 1. Acquire
+* **1. Acquire**
 > * Explore Problem 
 > * Identify Data 
 > * Evulation
-* 2. Understanding and Exploring Data 
+* **2. Understanding and Exploring Data**
 > * Import Statement 
 > * Load Data
 > * Combine Data 
 > * Cleaning Data
 > * Data Visulation
-* 3. Descriptive Statistics
-* 4. Prepare Data for Models
+* **3. Descriptive Statistics**
+* **4. Prepare Data for Models**
 > * Prepare Features
 > * Split Data into Train and Test
-* 5. Model Selection
+* **5. Model Selection**
 > * Random Forest Regressor
 > * Ridge Regressor
 > * Lasso Regressor
 > * Linear Regression
 
-* 6. Conclusion
+* **6. Conclusion**
 
 ![new](https://github.com/skrbyrm/Machine-Learning-Capstone-Project/blob/Capstone/img/Capture.PNG)
 
